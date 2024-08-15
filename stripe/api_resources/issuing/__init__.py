@@ -20,6 +20,9 @@ if not TYPE_CHECKING:
     from stripe.api_resources.issuing.card import Card
     from stripe.api_resources.issuing.cardholder import Cardholder
     from stripe.api_resources.issuing.dispute import Dispute
+    from stripe.api_resources.issuing.dispute_settlement_detail import (
+        DisputeSettlementDetail,
+    )
     from stripe.api_resources.issuing.personalization_design import (
         PersonalizationDesign,
     )
