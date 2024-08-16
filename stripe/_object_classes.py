@@ -70,7 +70,6 @@ OBJECT_CLASSES = {
     stripe.issuing.Card.OBJECT_NAME: stripe.issuing.Card,
     stripe.issuing.Cardholder.OBJECT_NAME: stripe.issuing.Cardholder,
     stripe.issuing.Dispute.OBJECT_NAME: stripe.issuing.Dispute,
-    stripe.issuing.DisputeSettlementDetail.OBJECT_NAME: stripe.issuing.DisputeSettlementDetail,
     stripe.issuing.PersonalizationDesign.OBJECT_NAME: stripe.issuing.PersonalizationDesign,
     stripe.issuing.PhysicalBundle.OBJECT_NAME: stripe.issuing.PhysicalBundle,
     stripe.issuing.Token.OBJECT_NAME: stripe.issuing.Token,
