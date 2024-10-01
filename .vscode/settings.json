@@ -32,5 +32,6 @@
   "python.terminal.activateEnvironment": true,
   "python.analysis.diagnosticMode": "workspace",
   "python.analysis.typeCheckingMode": "basic",
-  "ruff.lint.enable": false // in favor of flake8
+  "ruff.lint.enable": false,
+  "python.pythonPath": "/Users/macbookpro/Documents/GitHub/stripe-python/.venv/bin/python" // in favor of flake8
 }
